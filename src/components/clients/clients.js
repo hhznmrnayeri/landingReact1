@@ -4,7 +4,7 @@ import SectionTitle from './section-title'
 export default function Clients() {
   return (
     <div className='container my-10'>
-      <SectionTitle></SectionTitle>
+      <SectionTitle title='Our Clients' caption='We have been working with some Fortune 500+ clients'></SectionTitle>
       <div className='flex items-center justify-between mt-10 gap-4 flex-wrap'>
         <img src="images/client1.webp" alt="client" />
         <img src="images/client2.webp" alt="client" />
