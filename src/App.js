@@ -10,7 +10,7 @@ import Demo from './components/demo/Demo';
 import Footer from './components/Footer/Footer';
 function App() {
   return (
-    <div className="App bg-neutral-silver text-neutral-d-gray font-inter">
+    <div className="App bg-white text-neutral-d-gray font-inter">
       <Header></Header>
       <Clients></Clients>
       <Community></Community>
