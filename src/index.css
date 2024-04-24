@@ -19,7 +19,14 @@
       src: url("../public/fonts/Inter-Bold.ttf") format("truetype");
   }
 }
-@layer components{}
+@layer components{
+  .community__icon{
+    @apply bg-tint-500 w-12 h-12 rounded-tl-2xl rounded-tr rounded-bl rounded-br-lg relative
+  }
+  .community__icon img{
+    @apply absolute -left-4
+  }
+}
 @layer utilities{
   .flex-center{
     @apply flex items-center justify-center

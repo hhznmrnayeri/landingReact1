@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Section() {
   return (
-    <div></div>
+    <div className="container mt-10"></div>
   )
 }
