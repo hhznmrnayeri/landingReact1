@@ -2,10 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-3xl  text-blue-600">
-        Hello world!
-      </h1>
+    <div className="App bg-neutral-silver text-neutral-d-gray font-inter">
     </div>
   );
 }

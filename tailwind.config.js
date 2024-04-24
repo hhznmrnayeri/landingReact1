@@ -5,16 +5,32 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        "primary":"#417F56",
+        "primary":"#4CAF4F",
+        "secondary":"#263238",
+        "info":"#2194F3",
+        "warning":"#FBC02D",
+        "error":"#E53835",
+        "success":"#2E7D31",
         "shade":{
-          100:"#396F4B",
-          200:"#315F41",
+          100:"#43A046",
+          200:"#388E3B",
+          300:"#237D31",
+          400:"#1B5E1F",
+          500:"#103E13",
         },
-        "black":"#0C0C0C",
-        "error":{
-          DEFAULT:"#C30000",
-          100:"#ED2E2E",
-          200:"#FFF2F2"
+        "tint":{
+          100:"#66BB69",
+          200:"#81C784",
+          300:"#A5D6A7",
+          400:"#C8E6C9",
+          500:"#E8F5E9",
+        },
+        "neutral":{
+          "d-gray":"#4D4D4D",
+          "gray":"#717171",
+          "l-gray":"#89939E",
+          "gray-blue":"#ABBED1",
+          "silver":"#F5F7FA",
         },
       },
       backgroundImage:{
@@ -22,14 +38,20 @@ module.exports = {
         // "header-representation":"linear-gradient(0deg, rgba(0, 0, 0, 0.55) 0%, rgba(0, 0, 0, 0.55) 100%), linear-gradient(0deg, rgba(33, 64, 43, 0.50) 0%, rgba(33, 64, 43, 0.50) 100%), url(../images/representation/header.jpg)",
       },
       fontFamily:{
-        "estedad":"Estedad",
+        "inter":"Inter",
+        "interSemibold":"InterSemibold",
+        "interMedium":"InterMedium",
+        "interBold":"InterBold",
       },
       spacing:{
         "30":"7.5rem"
       },
       boxShadow: {
-        "2":"0px 2px 2px 0px rgba(0, 0, 0, 0.25)",
-        "card":"0px 0px 0px 0px rgba(0, 0, 0, 0.10), 0px 1px 2px 0px rgba(0, 0, 0,   0.10), 0px 4px 4px 0px rgba(0, 0, 0, 0.09), 0px 9px 5px 0px rgba(0, 0, 0, 0.05), 0px 16px 6px 0px rgba(0, 0, 0, 0.01), 0px 25px 7px 0px rgba(0, 0, 0, 0.00)",
+        "2":"0px 2px 4px 0px #ABBED199",
+        "4":"0px 4px 8px 0px #ABBED166",
+        "6":"0px 6px 12px 0px #ABBED14D",
+        "8":"0px 8px 16px 0px #ABBED166",
+        "16":"0px 16px 32px 0px #ABBED14D",
       },
       fontSize: {
         "2xs": ['10px', {

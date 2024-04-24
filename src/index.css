@@ -3,7 +3,25 @@
 @tailwind utilities;
 @layer base{
   @font-face {
-      font-family: "Estedad";
-      src: url("../public/fonts/Estedad-Regular.woff2") format("truetype");
+      font-family: "Inter";
+      src: url("../public/fonts/Inter-Regular.ttf") format("truetype");
+  }
+  @font-face {
+      font-family: "InterSemibold";
+      src: url("../public/fonts/Inter-SemiBold.ttf") format("truetype");
+  }
+  @font-face {
+      font-family: "InterMedium";
+      src: url("../public/fonts/Inter-Medium.ttf") format("truetype");
+  }
+  @font-face {
+      font-family: "InterBold";
+      src: url("../public/fonts/Inter-Bold.ttf") format("truetype");
+  }
+}
+@layer components{}
+@layer utilities{
+  .flex-center{
+    @apply flex items-center justify-center
   }
 }
