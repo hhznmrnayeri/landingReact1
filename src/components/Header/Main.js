@@ -22,8 +22,6 @@ export default function Main() {
                 <span className='rounded-full w-2.5 h-2.5 bg-primary opacity-30'></span>
             </div>
         </div>
-        {/* main wrapper */}
-        
     </>
   )
 }
