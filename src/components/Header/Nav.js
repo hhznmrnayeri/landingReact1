@@ -35,7 +35,7 @@ export default function Nav() {
                 {/* btn wrapper */}
                 <div className='flex items-center text-sm font-interMedium gap-1 xs:gap-3.5'>
                     <button className=' text-primary'>Login</button>
-                    <button className='text-white bg-primary rounded-md py-2.5 px-4'>Sign up</button>
+                    <button className='text-white bg-primary rounded-md px-2 py-2.5 xs:px-4'>Sign up</button>
                 </div>
             </div>
         </div>
