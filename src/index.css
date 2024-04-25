@@ -20,11 +20,11 @@
   }
 }
 @layer components{
-  .community__icon{
+  .community__icon--wrapper{
     @apply bg-tint-500 w-12 h-12 rounded-tl-2xl rounded-tr rounded-bl rounded-br-lg relative
   }
-  .community__icon img{
-    @apply absolute -left-4
+  .community__icon{
+    @apply absolute -left-4 w-full h-full
   }
 }
 @layer utilities{
