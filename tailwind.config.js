@@ -37,6 +37,7 @@ module.exports = {
         "header":"url(../public/images/header.webp)",
         "section1":"url(../public/images/section1.webp)",
         "section2":"url(../public/images/section2.webp)",
+        "section3":"url(../public/images/section3.webp)",
         // "header-representation":"linear-gradient(0deg, rgba(0, 0, 0, 0.55) 0%, rgba(0, 0, 0, 0.55) 100%), linear-gradient(0deg, rgba(33, 64, 43, 0.50) 0%, rgba(33, 64, 43, 0.50) 100%), url(../images/representation/header.jpg)",
       },
       fontFamily:{
