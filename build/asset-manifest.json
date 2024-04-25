@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3967b23c.css",
+    "main.js": "/static/js/main.9f6ad9b2.js",
+    "static/js/453.5d925393.chunk.js": "/static/js/453.5d925393.chunk.js",
+    "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
+    "static/media/Inter-Medium.ttf": "/static/media/Inter-Medium.3f7acfe50aad7ad68548.ttf",
+    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/market1.webp": "/static/media/market1.7a7286eaa5b051c869f7.webp",
+    "static/media/header.webp": "/static/media/header.f6ff44cf5c6cc8168dd2.webp",
+    "static/media/market2.webp": "/static/media/market2.43257703c153f7aa3efc.webp",
+    "static/media/market3.webp": "/static/media/market3.7dc1f491293f181e5db5.webp",
+    "static/media/section2.webp": "/static/media/section2.84592d409084b926dede.webp",
+    "static/media/section1.webp": "/static/media/section1.ea92f0fdba3a04649861.webp",
+    "static/media/section3.webp": "/static/media/section3.ac8b30cf6afe1a6aea89.webp",
+    "index.html": "/index.html",
+    "main.3967b23c.css.map": "/static/css/main.3967b23c.css.map",
+    "main.9f6ad9b2.js.map": "/static/js/main.9f6ad9b2.js.map",
+    "453.5d925393.chunk.js.map": "/static/js/453.5d925393.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3967b23c.css",
+    "static/js/main.9f6ad9b2.js"
+  ]
+}
