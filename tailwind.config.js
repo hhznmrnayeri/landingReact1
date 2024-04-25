@@ -38,6 +38,9 @@ module.exports = {
         "section1":"url(../public/images/section1.webp)",
         "section2":"url(../public/images/section2.webp)",
         "section3":"url(../public/images/section3.webp)",
+        "market1":"url(../public/images/market1.webp)",
+        "market2":"url(../public/images/market2.webp)",
+        "market3":"url(../public/images/market3.webp)",
         // "header-representation":"linear-gradient(0deg, rgba(0, 0, 0, 0.55) 0%, rgba(0, 0, 0, 0.55) 100%), linear-gradient(0deg, rgba(33, 64, 43, 0.50) 0%, rgba(33, 64, 43, 0.50) 100%), url(../images/representation/header.jpg)",
       },
       fontFamily:{
